@@ -55,5 +55,5 @@ https://user-images.githubusercontent.com/45416838/147392990-df9ebf08-f564-4cba-
 ## Note: We can Implement above two methods to any python frameworks like Django,Flask or Falcon.
 
 References:
-### https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3.html)
+### https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3.html
 ### https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1
