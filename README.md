@@ -1,6 +1,11 @@
 # amdocs-task
 This repo contains solution for the task provided by Amdocs.
 
+### Architecture Diagram
+
+![amdocs-architecture-diag](https://user-images.githubusercontent.com/45416838/147439782-75f21021-fc69-42dc-aa04-f9bd38d4e9af.png)
+
+
 ### Codebase Setup
 
 Step 1. Clone the public git repository. Use the command below in terminal.
